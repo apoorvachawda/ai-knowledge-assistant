@@ -1,0 +1,11 @@
+AI agents are systems that can reason, plan, and use tools to complete tasks.
+
+There are two main types of AI agents:
+1. Reactive agents
+2. Planning agents
+
+AI agents are widely used in automation, customer support, and research.
+
+Cats belong to the Felidae family. There are around 40 species of wild cats, including lions, tigers, and leopards.
+
+The domestic cat is called Felis catus.
